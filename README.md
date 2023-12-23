@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **about various fields, including data analytics, databases, and more.**
 
-- 💬 Ask me about **TensorFlow, Apache Spark™, SQL**
-
 - 📫 How to reach me **leoar0810@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
